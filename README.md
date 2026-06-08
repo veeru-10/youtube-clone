@@ -2,9 +2,6 @@
 
 A simple and responsive clone of the YouTube homepage built using HTML, CSS, and JavaScript. This project replicates the core layout and design of YouTube to help understand web layout structures, responsiveness, and basic DOM interactions.
 
-## 🌐 Live Demo
-
-[🔗 View Project] -  https://veeru-10.github.io/youtube-clone/
 
 ## 📁 Technologies Used
 
