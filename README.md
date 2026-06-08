@@ -4,7 +4,7 @@ A simple and responsive clone of the YouTube homepage built using HTML, CSS, and
 
 ## 🌐 Live Demo
 
-[🔗 View Project]( https://veeru-10.github.io/youtube-clone/)
+[🔗 View Project] -  https://veeru-10.github.io/youtube-clone/
 
 ## 📁 Technologies Used
 
