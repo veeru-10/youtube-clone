@@ -22,7 +22,7 @@ youtube-clone/
 
 ## 📸 Preview
 
-<img width="1919" height="1079" alt="Screenshot 2024-11-12 152252" src="https://github.com/user-attachments/assets/d6db0465-f12a-4aff-b411-38e10984279e" />
+<img width="1919" height="1079" alt="yt screenshot" src="./images/clone.png" />
 
 
 📄 License
